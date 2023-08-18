@@ -14,6 +14,4 @@
 * Parallax Scrolling for Depth: Parallax effects that give the illusion of depth as users scroll, seamlessly merging layers of immersive visuals. 
 * Narrative-Driven User Journey: A seamless narrative-driven user experience where each scroll unveils a new chapter of the traveler's journey, unfolding like a story.
 
-**Setup**
--
-Visit https://sinninga.github.io/parallax-website
+
